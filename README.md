@@ -1,7 +1,10 @@
 Angular Interview Questions 
+
 http://www.kansiris.org/2019/09/angular-tutorial.html
 
 # C#-Interview-Questions
+
+https://github.com/kansiris
 
 Technical interviews hold significant importance in securing employment in the technology sector, particularly for roles that entail the utilization of the C# programming language. Given its widespread usage and adaptability, proficiency in C# is a highly coveted attribute in the software development domain. Technical interviews are specifically structured to assess a candidate's competencies, technical expertise, experience, and aptitude for problem-solving.
 
